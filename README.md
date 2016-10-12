@@ -1,2 +1,5 @@
-# rails5-ruby-2.3.1-plus-node
-Docker base images for rails 5 applications
+# Rails 5 + nodejs == <3
+
+This is a docker image for rails applications, it also has nodejs included
+because Action Cable, ES6 and some other gems depend in node.
+
